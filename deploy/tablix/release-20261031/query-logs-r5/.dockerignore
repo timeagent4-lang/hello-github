@@ -1,0 +1,5 @@
+*
+!Dockerfile
+!Tablix.Server.dll
+!Tablix.Server.pdb
+!mcp-log-details.json

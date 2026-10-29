@@ -1,0 +1,10 @@
+{
+  "source_commit": "31d05ecb50ed4f02000d06ad8e05fc16c3188ab1",
+  "independent_review_complete": true,
+  "important_findings_open": 0,
+  "fixed": [
+    "same argument deserialization as execution",
+    "SQLite filename database identity fallback"
+  ],
+  "scope": "MCP SQL/name/row-count logs; existing credential masking and behavior retained"
+}

@@ -1,0 +1,53 @@
+{
+  "directory": "D:\\code\\Tablix\\production-release-20261031-r5",
+  "production_files": {
+    ".env": {
+      "bytes": 821,
+      "sha256": "bcb2440142f6a92372e5c59d2ef4221f736af89c34ce79d70af6de58a6b2c0b2"
+    },
+    "compose.yaml": {
+      "bytes": 788,
+      "sha256": "62c5c426a237d165a58aac3633742d0a9e9c9650843b89e96bf41a09110bd26b"
+    },
+    "tablix-server-release-20261031.tar": {
+      "bytes": 124907520,
+      "sha256": "fa7c7e2c653faae81d8666ee5f298060f3c7d4b8059e97aed8417b2ea4d2a442"
+    }
+  },
+  "full_zip_bytes": 112217085,
+  "full_zip_sha256": "dfea108dd70e48ad425590fa6d1f9b0dc19ee91017df9bc87e436d03f4099a74",
+  "parts": [
+    {
+      "name": "tablix-production-release-20261031-r5.zip.part001",
+      "bytes": 30000000,
+      "sha256": "cede050db9b7fe4c57b92a9e48acf91ca747a5ec7be5db4a8dcfd11e414476aa"
+    },
+    {
+      "name": "tablix-production-release-20261031-r5.zip.part002",
+      "bytes": 30000000,
+      "sha256": "ab1ddd30075900cd0d999d7aeffcf381e2b85300018bb1d8a43c916b4ecd3b95"
+    },
+    {
+      "name": "tablix-production-release-20261031-r5.zip.part003",
+      "bytes": 30000000,
+      "sha256": "8c94073d36d1576a0c3554f3c4c7271a3d65ee9b4395f349afa2ebee0012bf96"
+    },
+    {
+      "name": "tablix-production-release-20261031-r5.zip.part004",
+      "bytes": 22217085,
+      "sha256": "61230cd7f26bee7ad1ad3a9673a62540c9ca4a2a72c1f0d50dd2864a07a06632"
+    }
+  ],
+  "archive_readback_verified": true,
+  "docker_runtime_tested": false,
+  "server_tests_passed": 295,
+  "server_tests_skipped": 1,
+  "focused_log_tests_passed": 50,
+  "delivery_tests_passed": 6,
+  "source_commit": "31d05ecb50ed4f02000d06ad8e05fc16c3188ab1",
+  "important_review_findings_open": 0,
+  "small_patch": {
+    "bytes": 197800,
+    "sha256": "33476facc6b71df94555699d7e2f0d2a345551f08984e34e8bc04b52495e5fa4"
+  }
+}

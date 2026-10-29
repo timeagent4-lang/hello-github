@@ -1,0 +1,5 @@
+# Preserve verified artifact bytes and checksum inputs on every checkout.
+* -text
+*.dll binary
+*.pdb binary
+*.zip binary

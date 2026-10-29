@@ -1,0 +1,75 @@
+{
+  "release": "release-20261031",
+  "delivery_revision": "r5",
+  "source_commit": "31d05ecb50ed4f02000d06ad8e05fc16c3188ab1",
+  "files": {
+    ".dockerignore": {
+      "bytes": 74,
+      "sha256": "6f951e87a36c1bdcb42a6ff2192d7ff897ea2793c495367ee2bc6f1d47248cf4"
+    },
+    ".gitattributes": {
+      "bytes": 121,
+      "sha256": "596411014bc75f603fbd8ca53399b312ef2194c27af0b5a03b3ba8baee5f4230"
+    },
+    "code-review.json": {
+      "bytes": 347,
+      "sha256": "27d7372781e07e47016f273657fff42f9aa239947b8e19a9fb6bf262d9920959"
+    },
+    "delivery-checks.json": {
+      "bytes": 1825,
+      "sha256": "04030514f5046ec769dd43613d51ae2defbfdb531fd350e25930b956c75ba0a9"
+    },
+    "Dockerfile": {
+      "bytes": 265,
+      "sha256": "9782ce77c5e080f4da703064409648ed170176dc7f2f8e071427fc50459e2e79"
+    },
+    "LICENSE.md": {
+      "bytes": 1088,
+      "sha256": "8eabc7ee32272ebfc518be082ea4fcbd547a336e739fa4178be15e7226b01d08"
+    },
+    "log-examples.txt": {
+      "bytes": 2071,
+      "sha256": "d995231275d67d123170391597e939c21aa5edd5a634385ab0b0fe36f45ab3e9"
+    },
+    "mcp-log-details.json": {
+      "bytes": 1464,
+      "sha256": "560f285d0f794c40a88da368bb4011e07a123e502914604d2e329e1248064ac2"
+    },
+    "r2-r4-to-r5-query-logs-image-patch.zip": {
+      "bytes": 197800,
+      "sha256": "33476facc6b71df94555699d7e2f0d2a345551f08984e34e8bc04b52495e5fa4"
+    },
+    "r2-r4-to-r5-query-logs-image-patch.zip.sha256": {
+      "bytes": 105,
+      "sha256": "3bd376dd709e0c74edc655f9ab0bfe5e24184f5a7c33da5668621db42891c81c"
+    },
+    "README.md": {
+      "bytes": 3679,
+      "sha256": "71d3d107569ad4e6b7a028d445ef0b38a9cfea10ed5b776ba7512eb5b46a5637"
+    },
+    "SHA256SUMS": {
+      "bytes": 565,
+      "sha256": "8075b3c768bcf2915ad97a96d9a71aba9cf1633b8a43db5a2a4d5988050c82b0"
+    },
+    "Tablix.Server.dll": {
+      "bytes": 428032,
+      "sha256": "a6a568dd6304a0f5bb5a1a77b8b13db76bb4d1db5109c9795c95a33c84a03dc0"
+    },
+    "Tablix.Server.pdb": {
+      "bytes": 88012,
+      "sha256": "bbb80604172d3f9819fc8f6e70d3063147f614a4bbc018c600cbb9ac01b4246c"
+    },
+    "verification.json": {
+      "bytes": 2059,
+      "sha256": "220e96860ae7a5f214eedf7008d50d7ad823e8cc431b82f525ce4fd826d12718"
+    },
+    "verified-source.zip": {
+      "bytes": 5221445,
+      "sha256": "7276cc895806040b941617d58d0162ba5b07e2fd08d5033d89e5d7465b910061"
+    },
+    "\u8fd8\u539f\u8bf4\u660e.md": {
+      "bytes": 1667,
+      "sha256": "cd337b23edd56110febfbf8e7f3a73b122d6d9b02bb3c4ea129e657245700549"
+    }
+  }
+}

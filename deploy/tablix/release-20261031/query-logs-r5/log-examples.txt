@@ -1,0 +1,10 @@
+Actual local MCP/SQLite verification output; not production data.
+
+2026-10-29 04:08:49 Info [TablixServer] [MCP] requestId=48ac744097984dffb8d964dfd16cefc8 tool=tablix_execute_query query_received databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db" sql="SELECT 1 AS ok"
+2026-10-29 04:08:49 Info [TablixServer] [MCP] requestId=48ac744097984dffb8d964dfd16cefc8 tool=tablix_execute_query completed status=success rowsReturned=1 elapsedMs=69.7 databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db"
+2026-10-29 04:08:49 Info [TablixServer] [MCP] requestId=94ebfafc68d346a8888dedd497becad6 tool=tablix_execute_query query_received databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db" sql="SELECT 1 WHERE 1=0"
+2026-10-29 04:08:49 Info [TablixServer] [MCP] requestId=94ebfafc68d346a8888dedd497becad6 tool=tablix_execute_query completed status=success rowsReturned=0 elapsedMs=4.4 databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db"
+2026-10-29 04:08:50 Info [TablixServer] [MCP] requestId=40923b88a7484a269a3147a830f87d71 tool=tablix_execute_query query_received databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db" sql="SELECT missing_business_metric FROM sample"
+2026-10-29 04:08:50 Info [TablixServer] [MCP] requestId=40923b88a7484a269a3147a830f87d71 tool=tablix_execute_query completed status=failure_result rowsReturned=unknown elapsedMs=7.4 databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db"
+2026-10-29 04:08:50 Info [TablixServer] [MCP] requestId=c16b53bc8bc6480990e960f12e11be3b tool=tablix_execute_query query_received databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db" sql="SELECT [[redacted]] FROM sample"
+2026-10-29 04:08:50 Info [TablixServer] [MCP] requestId=c16b53bc8bc6480990e960f12e11be3b tool=tablix_execute_query completed status=failure_result rowsReturned=unknown elapsedMs=4.9 databaseName="proof_only" databaseLabel="Internal MySQL" databaseId="fixture_db"
